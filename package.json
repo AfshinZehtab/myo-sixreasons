@@ -1,0 +1,21 @@
+{
+  "name": "myo-sixreasons",
+  "version": "1.0.0",
+  "description": "myo for sixreasons",
+  "main": "myo-sixreasons.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfshinZehtab/myo-sixreasons.git"
+  },
+  "author": "AfshinZehtab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfshinZehtab/myo-sixreasons/issues"
+  },
+  "homepage": "https://github.com/AfshinZehtab/myo-sixreasons#readme"
+}
